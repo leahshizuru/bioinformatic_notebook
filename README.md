@@ -1,1 +1,1 @@
-# LAB_NOTEBOOK
+# Electronic lab notebook
