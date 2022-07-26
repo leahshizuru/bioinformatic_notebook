@@ -7,4 +7,4 @@
 
 ![Myriopathes ulex](M_ulex_it1.jpg)
 
-Mapped contigs.fasta file that SPAdes generated to *M. japonica* in Geneious Prime. Performed BLAST on consensus sequence (17,758 bp) that was created. BLAST results revealed M. ulex to be more identical to *Tanacetipathes thamnea* (JX45649.1) (Per. Ident: 99.52%) than to *Myriopathes japonica* (NC_046843.1) (Per. Ident: 98.68%).
+Mapped contigs.fasta file that SPAdes generated to *M. japonica* in Geneious Prime. Performed BLAST on consensus sequence (17,758 bp) that was created. BLAST results revealed *M. ulex* to be more identical to *Tanacetipathes thamnea* (JX45649.1) (Per. Ident: 99.52%) than to *Myriopathes japonica* (NC_046843.1) (Per. Ident: 98.68%).
