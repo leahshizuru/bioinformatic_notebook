@@ -9,4 +9,4 @@
 
 Contigs.fasta file that SPAdes generated was mapped to *M. japonica* in Geneious Prime. A BLAST was performed on the consensus sequence (17,758 bp). BLAST results revealed *M. ulex* to be more similar to *Tanacetipathes thamnea* (JX45649.1) (Per. Ident: 99.52%) than to *Myriopathes japonica* (NC_046843.1) (Per. Ident: 98.68%). Both were identical in Query Cover (98%).
 
-Given BLAST results I returned to Geneious Prime and mapped contigs.fasta to *Tanacetipathes thamnea*. BLAST results of this consensus sequcence (17,758 bp) revealed that *M. ulex* was more similar to *T. thamnea* with a Query Cover of 99% and Per. Ident 99.38% compared to *M. japonica* (Query Cover 98%; Per. Ident: 99.59%).
+Given BLAST results I returned to Geneious Prime and mapped contigs.fasta to *Tanacetipathes thamnea*. BLAST results of this consensus sequcence (17,758 bp) showed *M. ulex* to be more similar to *T. thamnea* with a Query Cover of 99% and Per. Ident 99.38% compared to *M. japonica* (Query Cover 98%; Per. Ident: 99.59%).
