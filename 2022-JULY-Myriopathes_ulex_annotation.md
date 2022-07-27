@@ -7,4 +7,7 @@
 
 ![Myriopathes ulex](M_ulex_it1.jpg)
 
-**Methods:** scp results from QUAST (report.pdf) to local to assess quality of SPAdes assembly. Instead of selecting one contig from the SPAdes assembly try mapping trimmed reads to reference genomes (*M. japonica* and *Tanacetipathes thamnea* (JX45649.1)). 
+**Methods:** 
+1. scp results from QUAST (report.pdf) to local to assess quality of SPAdes assembly. 
+2. Re-evaluate annotations that were given via "Live Annotate & Predict" and compare these to Mitos2 output. 
+3. Instead of selecting one contig from the SPAdes assembly try mapping trimmed reads to reference genomes (*M. japonica* (NC_027667) and *Tanacetipathes thamnea* (NC_046843.1)). 
