@@ -12,4 +12,6 @@
 2. Input "200" for "Minimum size"; select "Mold Protozoan Mitochondrial transl_table 4" for "Genetic code". This will autopopulate the apropriate start codons.
 3. Inspect sequence (with the highlighted ORFs).
 4. Locate the appropriate start codon and edit the current annotation.
-5. Resubmit this new annotation to BankIt.
+5. Resubmit this revised annotation to BankIt. See below.
+
+![Myriopathes ulex revised](M_ulex_revised.jpg)
