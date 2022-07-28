@@ -14,4 +14,4 @@
 4. Locate the appropriate start codon and edit the current annotation.
 5. Resubmit this revised annotation to BankIt. See below.
 
-![Myriopathes ulex revised](M_ulex_revised.jpg)
+![Myriopathes ulex revised](M_ulex_revised.jpeg)
