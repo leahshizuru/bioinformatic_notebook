@@ -15,4 +15,4 @@
 
 ![open reading frame and annotation](orf_example.jpeg)
 
-1. Resubmit .fasta file to Mitos2 (job settings: RefSeq 89 Metazoa, Genetic code: 4 Mold) to cross-check transferred annotations that were carried out in Geneious Prime.
+9. Resubmit .fasta file to Mitos2 (job settings: RefSeq 89 Metazoa, Genetic code: 4 Mold) to cross-check transferred annotations that were carried out in Geneious Prime.
