@@ -16,8 +16,8 @@
 
 ![open reading frame and annotation](orf_example.jpeg)
 
-9. Submit .fasta file to Mitos2 (job settings: RefSeq 89 Metazoa, Genetic code: 4 Mold). Compare output to annotations transferred from Stichopathes sp. SCBUCN-8850 (MZ157399) that were carried out in Geneious Prime.
+1. Submit .fasta file to Mitos2 (job settings: RefSeq 89 Metazoa, Genetic code: 4 Mold). Compare output to annotations transferred from Stichopathes sp. SCBUCN-8850 (MZ157399).
 
-10. Rules for annotations were as follows:
+2.  Rules for annotations were as follows:
 
-Transferred annotations take priority; Mitos2 serves to verify these annotations. In certain cases ORFs revealed subtle differences between transferred annotations and Mitos2 annotations. In cases where Geneious Prime and Mitos2 yielded the identical results, but ORF stated something different ORF Finder result was ignored.
+>Transferred annotations take priority; Mitos2 serves to verify these annotations. In certain cases ORFs revealed subtle differences between transferred annotations and Mitos2 annotations. In cases where Geneious Prime and Mitos2 yielded the identical results, but ORF stated something different ORF Finder result was ignored.
