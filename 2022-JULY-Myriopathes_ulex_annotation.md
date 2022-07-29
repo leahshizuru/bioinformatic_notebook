@@ -15,3 +15,5 @@
 5. Resubmit this revised annotation to BankIt. See below.
 
 ![Myriopathes ulex revised](M_ulex_revised.jpeg)
+
+**Results:** Resubmission accepted and accession number given OP104910.
