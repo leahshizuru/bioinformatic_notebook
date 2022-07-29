@@ -8,7 +8,7 @@
 1. BLAST contigs.fasta from SPAdes output.
 2. Select best candidate for downstream analysis (NODE_39_length_20586_cov_107.795298).
 3. Find repeats at start and end then remove and circularize the linear sequence.
-4. Transfer annotations from database.
+4. Utilizing Genious Prime, transfer annotations from database.
 5. Annotations revealed a reverse compliment was needed so "Reverse Compliment" in the "Sequence" tab was selected.
 6. Utilize "Find ORFs" in Geneious Prime to locate start codons.
 7. Input "200" for "Minimum size"; select "Mold Protozoan Mitochondrial transl_table 4" for "Genetic code". This will auto-populate the relevant start codons.
