@@ -16,4 +16,4 @@
 
 ![Myriopathes ulex revised](M_ulex_revised.jpeg)
 
-**Results:** Resubmission accepted and accession number given OP104910.
+**Results:** Resubmission accepted and accession number given: OP104910.
