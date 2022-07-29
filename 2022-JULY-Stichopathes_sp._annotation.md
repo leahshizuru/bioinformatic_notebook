@@ -11,6 +11,6 @@
 5. Annotations revealed a reverse compliment was needed so "Reverse Compliment" in the "Sequence" tab was selected.
 6. Utilize "Find ORFs" in Geneious Prime to locate start codons. 
 7. Input "200" for "Minimum size"; select "Mold Protozoan Mitochondrial transl_table 4" for "Genetic code". This will auto-populate the relevant start codons.
-8. Inspect sequence (with the highlighted ORFs). Geneious will transfer annotations, however it is imperative that manual inspection of sequence and start codons is performed. See below.
+8. Inspect sequence (with the highlighted ORFs). Geneious will transfer annotations, however it is imperative that manual inspection of sequence is performed. You may need to adjust the annotation so that the annotation contains the correct start codon. See below.
    
 ![Stichopathes sp.](Stichopathes_sp.jpeg)
