@@ -20,4 +20,4 @@
 
 2.  Rules for annotations were as follows:
 
->Transferred annotations take priority; Mitos2 serves to verify these annotations. In certain cases ORFs revealed subtle differences between transferred annotations and Mitos2 annotations. In cases where Geneious Prime and Mitos2 yielded the identical results, but ORF stated something different ORF Finder result was ignored.
+>Transferred annotations take priority; Mitos2 serves to verify these annotations. In certain cases ORFs revealed subtle differences between transferred annotations and Mitos2 annotations. In cases where Geneious Prime and Mitos2 yielded the identical results, but ORF stated something different, ORF Finder result was ignored.
