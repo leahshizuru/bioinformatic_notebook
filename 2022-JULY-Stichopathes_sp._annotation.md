@@ -7,7 +7,7 @@
 
 1. BLAST contigs.fasta from SPAdes output.
 2. Select best candidate for downstream analysis (NODE_39_length_20586_cov_107.795298).
-3. In Geneious Prime find repeats at start and end of the sequence, remove the repeat and circularize the linear sequence.
+3. In Geneious Prime "Find Repeats", remove the duplicated repeat at the and end of the sequence then "Circularize Sequence."
 4. Transfer annotations from database.
 5. Annotations revealed a reverse compliment was needed so "Reverse Compliment" in the "Sequence" tab was selected.
 6. Employ "Find ORFs" and locate start codons.
