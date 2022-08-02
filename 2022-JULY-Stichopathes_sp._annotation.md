@@ -24,4 +24,4 @@
 
 Final annotation is as follows:
 
-![Stichopathes_sp](Stichopathes_sp.jpeg)
+![Stichopathes_sp](Stichopathes_sp.jpg)
