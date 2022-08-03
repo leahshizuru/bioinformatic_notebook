@@ -13,7 +13,8 @@
 6. In Geneious Prime: "Find Repeats". No repeats were found, further suggesting this is a partial mitochondrial genome.
 7. Create two iterations: one will contain Mitos2 dictated annotations and the other will be results of annotations that were transferred from library.
 8. Submit .fasta file to Mitos2 (job settings: RefSeq 89 Metazoa, Genetic code: 4 Mold). (iteration 1)
-9. Transfer annotations from database.(iteration 2)
-10. Compare annotations.
-11. "Find ORFs" and locate start codons.
-12. Input "500" for "Minimum size"; select "Mold Protozoan Mitochondrial transl_table 4" for "Genetic code". This will auto-populate the relevant start codons.
+9. Transfer annotations from database.(iteration 2). Annotations revealed an alignment in the reverse direction. Created a reverse compliment.
+10. Annotations didn't appear to transfer well (low similarity 90%). Opted to explore mapping trimmed reads to reference genome.
+11. Compare annotations.
+12. "Find ORFs" and locate start codons.
+13. Input "500" for "Minimum size"; select "Mold Protozoan Mitochondrial transl_table 4" for "Genetic code". This will auto-populate the relevant start codons.
