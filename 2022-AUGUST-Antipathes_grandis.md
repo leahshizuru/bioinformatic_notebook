@@ -15,7 +15,12 @@
 8. Submit .fasta file to Mitos2 (job settings: RefSeq 89 Metazoa, Genetic code: 4 Mold). Compare output to transferred annotations.
 9. "Find ORFs" and locate start codons.
 10. Input "500" for "Minimum size"; select "Mold Protozoan Mitochondrial transl_table 4" for "Genetic code". This will auto-populate the relevant start codons.
+11. Are ORFs consistent with annotations? (See Figure 2.)
 
 ![Antipathes grandis](Antipathes_grandis.jpg)
 
 Figure 1. Mitochondrial genome annotations for *Antipathes grandis* (red polyps) collected in the Au'Au Channel.
+
+![Antipathes grandis ORF Finder](Antipathes_grandis_ORF.jpg)
+
+Figure 2. Mitochondrial genome annotation for *Antipathes grandis* (red polyps) collected in the Au'Au Channel showing open reading frames generated via "Find ORFs" in Geneious Prime.
