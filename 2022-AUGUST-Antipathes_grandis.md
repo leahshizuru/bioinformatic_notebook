@@ -13,6 +13,8 @@
 6. Transfer annotations from database. (See Figure 1)
 7. Create two working iterations, one specifically to compare annotations for COX3, COX1, tRNA & ND2 among color morphs. This second iteration was a 100% match to (GU296499 and GU296487) the red morphotype. 
 8. Submit .fasta file to Mitos2 (job settings: RefSeq 89 Metazoa, Genetic code: 4 Mold). Compare output to transferred annotations.
+9. "Find ORFs" and locate start codons.
+10. Input "500" for "Minimum size"; select "Mold Protozoan Mitochondrial transl_table 4" for "Genetic code". This will auto-populate the relevant start codons.
 
 ![Antipathes grandis](Antipathes_grandis.jpg)
 
