@@ -16,12 +16,16 @@
 9. "Find ORFs" and locate start codons.
 10. Input "500" for "Minimum size"; select "Mold Protozoan Mitochondrial transl_table 4" for "Genetic code". This will auto-populate the relevant start codons.
 11. Are ORFs consistent with annotations? (See Figure 2.)
-12. Based on inconsistencies between Mitos2 and transferred annotations from reference genomes ND1, ND2, ND4, COX2, COX3, and HEG were altered. These adjusted annotations were modified by looking at the ORF provided by Geneious Prime.
+12. Based on inconsistencies between Mitos2 and transferred annotations from reference genomes ND1, ND2, ND4, COX2, COX3, and HEG were altered. These adjusted annotations were modified by looking at the ORF provided by Geneious Prime. (See Figure 3 for final annotations)
     
 ![Antipathes grandis](Antipathes_grandis.jpg)
 
-Figure 1. Mitochondrial genome annotations for *Antipathes grandis* (red polyps) collected in the Au'Au Channel.
+Figure 1. Initial mitochondrial genome annotations for *Antipathes grandis* (red polyps) collected in the Au'Au Channel.
 
 ![Antipathes grandis ORF Finder](Antipathes_grandis_ORF.jpg)
 
 Figure 2. Mitochondrial genome annotation for *Antipathes grandis* (red polyps) collected in the Au'Au Channel showing open reading frames (orange) and coding regions (yellow) generated via "Find ORFs" in Geneious Prime.
+
+![Antipathes grandis_final](Antipathes_grandis_final.jpg)
+
+Figure 3. Final mitochondrial genome annotations for *Antipathes grandis*.
