@@ -12,7 +12,8 @@
 5. Download relevant *Apahnipathes* material from GenBank; place these files into the "Reference Features" subfolder labeled "antipatharians".
 6. In Geneious Prime: "Find Repeats". No repeats were found, further suggesting this is a partial mitochondrial genome.
 7. Create two iterations: one will contain Mitos2 dictated annotations and the other will be results of annotations that were transferred from library.
-8. Transfer annotations from database. (See Figure 1)
-9. Submit .fasta file to Mitos2 (job settings: RefSeq 89 Metazoa, Genetic code: 4 Mold). Compare output to transferred annotations.
-10. "Find ORFs" and locate start codons.
-11. Input "500" for "Minimum size"; select "Mold Protozoan Mitochondrial transl_table 4" for "Genetic code". This will auto-populate the relevant start codons.
+8. Submit .fasta file to Mitos2 (job settings: RefSeq 89 Metazoa, Genetic code: 4 Mold). (iteration 1)
+9. Transfer annotations from database.(iteration 2)
+10. Compare annotations.
+11. "Find ORFs" and locate start codons.
+12. Input "500" for "Minimum size"; select "Mold Protozoan Mitochondrial transl_table 4" for "Genetic code". This will auto-populate the relevant start codons.
