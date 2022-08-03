@@ -16,4 +16,4 @@
 
 ![Antipathes grandis](Antipathes_grandis.jpg)
 
-Figure 1. Annotation of *Antipathes grandis* mitochondrial genome.
+Figure 1. Mitochondrial genome annotations for *Antipathes grandis* (red polyps) collected in the Au'Au Channel.
