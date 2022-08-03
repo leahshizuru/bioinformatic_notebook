@@ -23,4 +23,4 @@ Figure 1. Mitochondrial genome annotations for *Antipathes grandis* (red polyps)
 
 ![Antipathes grandis ORF Finder](Antipathes_grandis_ORF.jpg)
 
-Figure 2. Mitochondrial genome annotation for *Antipathes grandis* (red polyps) collected in the Au'Au Channel showing open reading frames generated via "Find ORFs" in Geneious Prime.
+Figure 2. Mitochondrial genome annotation for *Antipathes grandis* (red polyps) collected in the Au'Au Channel showing open reading frames (orange) and coding regions (yellow) generated via "Find ORFs" in Geneious Prime.
