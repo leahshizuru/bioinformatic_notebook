@@ -26,4 +26,5 @@
 Figure 1. Trimmed MiSeq PE reads mapped to Stichopathes sp. SCBUCN-8850 (MZ157399).   
 
 ![Percent similarity](Percent_transfer.jpg)
+
 Figure 2. Similarity (shown in percentages) between consensus sequence and transferred annotations.
