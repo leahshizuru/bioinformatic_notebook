@@ -19,7 +19,7 @@
 12. A consensus sequence of 20, 395 bp was generated.
 13. This consensus sequence was BLASTed. Top 3 results were as follows: 98% Query Cover, 92.61 Per. Ident to (MZ157399.1), 97% Query Cover, 91.48 Per. Ident to (JX023266.1), 96% Query Cover, 92.42 Per. Ident to (MZ157400.1). All partial *Aphanipathes* scored either 100 Per. Ident or >99.%.
 
-14. Annotations were transferred (via Geneious Prime) to this consensus sequence following same protocol above. (iteration 3) Note that percent identical is lower in these annotations. (See Figure 2)
+14. Annotations were transferred (via Geneious Prime) to this consensus sequence following same protocol above. Note that percent identical is lower in these annotations. (See Figure 2)
 15. Submitted this consensus sequence to Mitos2 as a new job.
 
 ![Mapped reads](Mapped_to_reference.jpg)
