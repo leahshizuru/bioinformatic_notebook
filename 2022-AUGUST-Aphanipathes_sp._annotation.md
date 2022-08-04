@@ -12,8 +12,8 @@
 5. Download relevant *Apahnipathes* material from GenBank; place these files into the "Reference Features" subfolder labeled "antipatharians".
 6. In Geneious Prime: "Find Repeats". No repeats were found, further suggesting this is a partial mitochondrial genome.
 7. Create two iterations: one will contain Mitos2 dictated annotations and the other will be results of annotations that were transferred from library.
-8. Submit .fasta file to Mitos2 (job settings: RefSeq 89 Metazoa, Genetic code: 4 Mold). (iteration 1)
-9. Transfer annotations from database.(iteration 2). Annotations revealed an alignment in the reverse direction. Created a reverse compliment.
+8. Submit .fasta file to Mitos2 (job settings: RefSeq 89 Metazoa, Genetic code: 4 Mold). 
+9. Transfer annotations from database. Annotations revealed an alignment in the reverse direction. Created a reverse compliment.
 10. Annotations didn't appear to transfer well (low similarity 90%). Opted to explore mapping trimmed reads to reference genome.
 11. scp "trimmed_reads" for 130, input 130.F.fq.gz and 130.R.fq.gz into Geneious separately, paired them and then mapped these reads to MZ157399. (See Figure 1)
 12. A consensus sequence of 20, 395 bp was generated.
