@@ -21,7 +21,8 @@
 
 14. Annotations were transferred (via Geneious Prime). Note that percent identical is lower in these annotations. (See Figure 2)
 15. Trimmed reads were mapped to MZ157400 (Nov 7, 2022).
-16. Both consensus sequences were submitted to Mitos2 (Nov 7, 2022).
+16. Both contig sequences were submitted to Mitos2 (Nov 8, 2022).
+17. A BLAST search for both contigs was performed (Nov 8, 2022)
 
 ![Mapped reads](Mapped_to_reference.jpg)
 Figure 1. Contig produced after mapping trimmed MiSeq PE reads mapped to Stichopathes sp. SCBUCN-8850 (MZ157399).
