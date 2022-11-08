@@ -24,7 +24,7 @@
 16. Both consensus sequences were submitted to Mitos2 (Nov 7, 2022).
 
 ![Mapped reads](Mapped_to_reference.jpg)
-Figure 1. Trimmed MiSeq PE reads mapped to Stichopathes sp. SCBUCN-8850 (MZ157399).
+Figure 1. Contig produced after mapping trimmed MiSeq PE reads mapped to Stichopathes sp. SCBUCN-8850 (MZ157399).
 
 ![Percent similarity](Percent_transfer.jpg)
 
