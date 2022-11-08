@@ -20,10 +20,8 @@
 13. This consensus sequence was BLASTed. Top 3 results were as follows: 98% Query Cover, 92.61 Per. Ident to (MZ157399.1), 97% Query Cover, 91.48 Per. Ident to (JX023266.1), 96% Query Cover, 92.42 Per. Ident to (MZ157400.1). All partial *Aphanipathes* scored either 100 Per. Ident or >99.%.
 
 14. Annotations were transferred (via Geneious Prime). Note that percent identical is lower in these annotations. (See Figure 2)
-15. Submit this consensus sequence to Mitos2 as a new job.
-16. Returned to TrimGalore! FastQC results to assess trimming efficacy. Observed that Basic Statistics between 130 and other libarires differed in one main way: "Sequence length". Sequence length for 130 was 20-301, whereas Sequence length for 144 was 20-247. Sequence length and low quality of longer reads may have contributed to the SPAdes assembly.
-
-17. Run these reads through TrimGalore! and reduce size of 
+15. Trimmed reads were mapped to MZ157400 (Nov 7, 2022).
+16. Both consensus sequences were submitted to Mitos2 (Nov 7, 2022).
 
 ![Mapped reads](Mapped_to_reference.jpg)
 Figure 1. Trimmed MiSeq PE reads mapped to Stichopathes sp. SCBUCN-8850 (MZ157399).
