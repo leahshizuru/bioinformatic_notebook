@@ -11,22 +11,11 @@
 4. BLAST results yielded the following: Query Cover 94%, Per. Ident 92.70% to *Stichopathes* sp. SCBUCN-8850 (MZ157399), Query Cover 94%, Per. Ident 92.21% to (JX023266), and 92% to *Stichopathes* sp. SCBUCN-8849 (MZ157400). Other matches were 80% or less for both Quer Cover and Per. Ident.
 5. Download relevant *Apahnipathes* material from GenBank; place these files into the "Reference Features" subfolder labeled "antipatharians".
 6. In Geneious Prime: "Find Repeats". No repeats were found, further suggesting the SPAdes contig is merely a partial mitochondrial genome. If this was a complete mitochondrial genome we would observe a repeated sequence at the start and end of the linear contig. Therefore, we will not circularize the sequence in Geneious Prime.
-7. Create two iterations: one will contain Mitos2 dictated annotations and the other will be results of annotations that were transferred from library.
-8. Iteration 1: Submit .fasta file to Mitos2 (job settings: RefSeq 89 Metazoa, Genetic code: 4 Mold).
-9. Iteration 2: Transfer annotations from database. Annotations revealed an alignment in the reverse direction. Created a reverse compliment.
-10. Annotations didn't appear to transfer well (low similarity 90%). Opted to explore mapping trimmed reads to reference genome.
-11. scp "trimmed_reads" for 130, input 130.F.fq.gz and 130.R.fq.gz into Geneious separately, paired them and then mapped these reads to MZ157399. (See Figure 1)
-12. A consensus sequence of 20, 395 bp was generated.
-13. This consensus sequence was BLASTed. Top 3 results were as follows: 98% Query Cover, 92.61 Per. Ident to (MZ157399.1), 97% Query Cover, 91.48 Per. Ident to (JX023266.1), 96% Query Cover, 92.42 Per. Ident to (MZ157400.1). All partial *Aphanipathes* scored either 100 Per. Ident or >99.%.
+7.  Transfered annotations from database and utilized the "Find ORFs" function in the Live Annotate & Predict tab to verify start and stop positions for these transferred annotations. 
 
-14. Annotations were transferred (via Geneious Prime). Note that percent identical is lower in these annotations. (See Figure 2)
-15. Trimmed reads were mapped to MZ157400 (Nov 7, 2022).
-16. Both contig sequences were submitted to Mitos2 (Nov 8, 2022).
-17. A BLAST search for both contigs was performed (Nov 8, 2022)
+Final annotation is as follows:
 
-![Mapped reads](Mapped_to_reference.jpg)
-Figure 1. Contig produced after mapping trimmed MiSeq PE reads mapped to Stichopathes sp. SCBUCN-8850 (MZ157399).
+![Aphanipathes_sp](Aphanipathes_sp.jpg)
+  
 
-![Percent similarity](Percent_transfer.jpg)
 
-Figure 2. Similarity (shown in percentages) between consensus sequence and transferred annotations.
