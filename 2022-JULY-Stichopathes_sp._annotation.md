@@ -15,4 +15,4 @@
 
 Final annotation is as follows:
 
-![Stichopathes_sp](Stichopathes sp.jpg)
+![Stichopathes sp](https://user-images.githubusercontent.com/36777056/216791375-1fc79c32-04e5-40e3-b9dc-65e20f015091.jpg)
