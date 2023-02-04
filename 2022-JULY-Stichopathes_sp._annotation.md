@@ -15,4 +15,4 @@
 
 Final annotation is as follows:
 
-![Stichopathes_sp](Stichopathes_sp.jpg)
+![Stichopathes_sp](Stichopathes sp.jpg)
