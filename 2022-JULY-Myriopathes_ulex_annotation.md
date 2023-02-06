@@ -16,4 +16,5 @@
 
 ![Myriopathes ulex revised](M_ulex_revised.jpeg)
 
-**Results:** Resubmission accepted and accession number given: OP104910. Notified about release date on January 30, 2023. Release date scheduled for February 4, 2023.
+https://www.ncbi.nlm.nih.gov/nuccore/OP104910
+
