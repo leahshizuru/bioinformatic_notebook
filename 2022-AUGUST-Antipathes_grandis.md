@@ -12,5 +12,5 @@
 5. Transfer annotations from database. (See Figure 1)
     
 
-
+![Antipathes grandis](a.grandis_transferred.png)
 Figure 1. Initial mitochondrial genome annotations for *Antipathes grandis* (red polyps) collected in the Au'Au Channel.
